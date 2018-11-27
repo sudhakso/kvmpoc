@@ -8,4 +8,9 @@ pip install -r requirements.txt
 
 # Run
 
-python $REPO/disco-manager/app.py "Bind IP Address"
+sudo python $REPO/disco-manager/app.py "Bind IP Address"
+
+# Changes 
+This program needs access to following directories
+1. /var/log
+2. /etc/disco/
