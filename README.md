@@ -8,4 +8,4 @@ pip install -r requirements.txt
 
 # Run
 
-$REPO/disco-manager/app.py <IP address to listen>
+python $REPO/disco-manager/app.py <IP address to listen>
