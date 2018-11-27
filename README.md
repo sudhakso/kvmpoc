@@ -11,7 +11,7 @@ pip install -r requirements.txt
 1. sudo python $REPO/disco-manager/app.py "Bind IP Address"
 
 ## To start the resource agent,
-1. export DISCO_SERVER = <Bind IP address of Discovery server>
+1. export DISCO_SERVER = "Bind IP address of Discovery server"
 2. sudo python $REPO/res-agent/app.py "Bind IP Address"
 
 # Changes 
