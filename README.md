@@ -8,4 +8,4 @@ pip install -r requirements.txt
 
 # Run
 
-python $REPO/disco-manager/app.py <IP address to listen>
+python $REPO/disco-manager/app.py "Bind IP Address"
